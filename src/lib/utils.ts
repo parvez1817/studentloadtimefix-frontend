@@ -5,4 +5,4 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 
-export const API_URL = 'https://student-backend-otjm.onrender.com';
+export const API_URL = 'https://studentloadtimefix-backend.onrender.com';
